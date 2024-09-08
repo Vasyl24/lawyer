@@ -71,7 +71,9 @@
 }
 
 .about-img {
-  width: 100%;
+  /* width: 100%; */
+  /* width: 590px; */
+  height: 585px;
 }
 
 .about-text-container {

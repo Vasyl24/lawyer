@@ -18,6 +18,9 @@
 .nav-desk:hover {
   text-decoration-line: underline;
 }
+.truth-img {
+  width: 100%;
+}
 
 @media screen and (min-width: 1024px) {
   .header-container {
@@ -32,8 +35,8 @@
 }
 
 .icon-logo {
-  width: 25px;
-  height: 16px;
+  width: 250px;
+  /* height: 16px; */
 }
 
 .icon-burger {
