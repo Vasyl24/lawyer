@@ -35,8 +35,8 @@
 }
 
 .icon-logo {
-  width: 250px;
-  /* height: 16px; */
+  width: 125px;
+  height: 30px;
 }
 
 .icon-burger {
@@ -131,6 +131,7 @@
   pointer-events: auto;
 
   transform: translateX(0);
+
   transition: transform var(--main-transition), opacity var(--main-transition);
 }
 
